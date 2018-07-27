@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Minha primeira página</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Olá Mundo!</h1>
+    <p>Este é o meu primeiro código com HTML</p>
+    <h2>O primeiro de muitos!</h2>
+    <p>
+      Vamos continuar com a leitura
+      para se aprofundar mais...
+    </p>
+  </body>
+</html>
+
+    
